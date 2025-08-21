@@ -11,7 +11,6 @@ ta>=0.10.2
 
 # Machine learning
 tensorflow>=2.11.0      # If using TensorFlow for CNN-LSTM
-# torch>=1.13.0         # Uncomment if using PyTorch instead
 
 # Hidden Markov Models
 hmmlearn>=0.2.8
@@ -22,6 +21,3 @@ plotly>=5.13.0
 # Optional: for time series preprocessing
 tqdm>=4.64.0
 statsmodels>=0.13.5
-
-# Optional: for Jupyter development
-ipython
